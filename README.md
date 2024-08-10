@@ -6,14 +6,14 @@
 ## Installation :
 * `apt update`
 * `apt install git python2 -y`
-* `git clone https://github.com/mwtutech/fake-mailer`
+* `git clone https://github.com/mwtutech/fake-maile`
 * `cd fake-mailer`
 
 #### Run : `python2 mailer.py`
 
 ### Or ; Use Single Command
 ```
-apt update && apt install git python2 -y && git clone https://github.com/mwtutech/fake-mailer && cd fake-mailer && python2 mailer.py
+apt update && apt install git python2 -y && git clone https://github.com/mwtutech/fake-mailer && cd fake-maile && python2 mailer.py
 ```
 
 ## [+] Find Me on :
