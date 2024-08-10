@@ -85,5 +85,3 @@ else:
     print ('')
     print (Y + " Visit www.github.com/mwtutech for More Tools" + W)
     print ('')
-
-
